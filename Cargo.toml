@@ -1,0 +1,10 @@
+[package]
+name = "whac-a-mole"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.25.0"
+rand = "0.8.5"
+drawille = "0.3.0"
+lazy_static = "1.4.0"
